@@ -1,3 +1,3 @@
 ## Homework
 
-Пожалуйста, опишите в Jira по одному багу, найденным на сайтах [ilcarro](https://ilcarro.web.app) и [savva-libkin](https://savva-libkin.com/)
+Пожалуйста, опишите в Jira один баг, найденный на сайте [ilcarro](https://ilcarro.web.app)
