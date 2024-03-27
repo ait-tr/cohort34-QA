@@ -50,7 +50,7 @@ Jenkins...
 
 [Mac(JAVA_HOME,PATH)](https://docs.google.com/document/d/1D-aJJ1-kR3YajD9OXCOOO2MbCCTUa24GTID9FwcQJS8/edit?usp=drive_link)
 
-###### Commands to verify correct configuration:
+[Bandicam](https://www.bandicam.com/downloads/)
 
 **Windows**
 
