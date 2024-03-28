@@ -22,3 +22,5 @@
 
 
 [Chropath](https://chromewebstore.google.com/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo?pli=1)
+
+[UI Elements](https://docs.google.com/presentation/d/1PDbsrSNHTY3KdLiY3SDojRGAbUdNMwGA/edit?usp=sharing&ouid=116447005932578256378&rtpof=true&sd=true)
