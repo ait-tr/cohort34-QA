@@ -24,3 +24,35 @@
 [Chropath](https://chromewebstore.google.com/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo?pli=1)
 
 [UI Elements](https://docs.google.com/presentation/d/1PDbsrSNHTY3KdLiY3SDojRGAbUdNMwGA/edit?usp=sharing&ouid=116447005932578256378&rtpof=true&sd=true)
+
+**build.gradle**
+
+plugins {
+
+id 'java'
+
+}
+
+group = 'org.example'
+
+version = '1.0-SNAPSHOT'
+
+repositories {
+
+mavenCentral()
+
+}
+
+dependencies {
+
+implementation 'org.seleniumhq.selenium:selenium-java:4.19.0'
+
+implementation 'org.testng:testng:7.9.0'
+
+}
+
+test {
+
+useTestNG()
+
+}
