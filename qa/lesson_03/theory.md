@@ -21,8 +21,6 @@ a tool used for project management, test management and bug tracking. It simplif
 
 [TestLink](https://testlink.ait-tr.de/login.php?note=logout&viewer=)
 
-[STP](https://drive.google.com/drive/folders/1VVfg1hIHArh84sujBaQvRU-PAFg1dNLn?usp=sharing)
-
 [Test link Login - Password](https://docs.google.com/spreadsheets/d/1KvV_JmUuVg_YD3ERJLHoUJlqP_8guE8g2PQXhjtvDgc/edit?usp=drive_link)
 
 [TFS](https://azure.microsoft.com/en-us/products/devops/boards/)
