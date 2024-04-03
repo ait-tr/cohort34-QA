@@ -1,0 +1,10 @@
+{
+  "plan": "plan.md",
+  "homework": "homework.md",
+  "theory": "theory.md",
+  "code": [
+    "code/QA34_Phonebook/.gitignore",
+    "code/QA34_Phonebook/build.gradle",
+    "code/QA34_Phonebook/src/test/java/com/phonebook/tests/HomePageTests.java"
+  ]
+}
