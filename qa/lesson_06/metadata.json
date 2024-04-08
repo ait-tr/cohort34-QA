@@ -1,0 +1,12 @@
+{
+  "plan": "plan.md",
+  "homework": "homework.md",
+  "code": [
+    "code/QA34_Phonebook/src/test/java/com/phonebook/tests/TestBase.java",
+    "code/QA34_Phonebook/src/test/java/com/phonebook/tests/HomePageTests.java",
+    "code/QA34_Phonebook/src/test/java/com/phonebook/tests/CreateAccountTests.java",
+    "code/QA34_Phonebook/src/test/java/com/phonebook/tests/LoginTests.java",
+    "code/QA34_Phonebook/src/test/java/com/phonebook/tests/AddContactTests.java",
+    "code/QA34_Phonebook/src/test/java/com/phonebook/tests/DeleteContactTests.java"
+  ]
+}
