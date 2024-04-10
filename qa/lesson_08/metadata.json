@@ -1,0 +1,14 @@
+{
+  "plan": "plan.md",
+  "homework": "homework.md",
+  "code": [
+    "code/QA34_Phonebook/build.gradle",
+    "code/QA34_Phonebook/src/test/resources/logback.xml",
+    "code/QA34_Phonebook/src/test/resources/testng.xml",
+    "code/QA34_Phonebook/src/test/resources/regression.xml",
+    "code/QA34_Phonebook/src/main/java/phonebook/fw/BaseHelper.java",
+    "code/QA34_Phonebook/src/test/java/com/phonebook/tests/TestBase.java",
+    "code/QA34_Phonebook/src/main/java/data/UserData.java",
+    "code/QA34_Phonebook/src/main/java/data/ContactData.java"
+  ]
+}
