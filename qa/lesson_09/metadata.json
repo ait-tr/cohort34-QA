@@ -1,0 +1,10 @@
+{
+  "plan": "plan.md",
+  "homework": "homework.md",
+  "code": [
+    "code/QA34_Phonebook/src/main/java/phonebook/fw/BaseHelper.java",
+    "code/QA34_Phonebook/src/test/java/com/phonebook/tests/TestBase.java",
+   "code/QA34_Phonebook/src/test/java/com/phonebook/tests/AddContactTests.java",
+   "code/QA34_Phonebook/src/main/java/com/phonebook/utils/DataProviders.java"
+  ]
+}
