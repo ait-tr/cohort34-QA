@@ -1,0 +1,13 @@
+{
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/QA34_InterviewSeleniumTask/src/main/java/fw/ApplicationManager.java",
+    "code/QA34_InterviewSeleniumTask/src/main/java/fw/BaseHelper.java",
+    "code/QA34_InterviewSeleniumTask/src/main/java/fw/SelectHelper.java",
+    "code/QA34_InterviewSeleniumTask/src/main/java/fw/ItemHelper.java",
+    "code/QA34_InterviewSeleniumTask/src/test/java/tests/TestBase.java",
+    "code/QA34_InterviewSeleniumTask/src/test/java/tests/SearchItemTest.java"
+  ]
+}
