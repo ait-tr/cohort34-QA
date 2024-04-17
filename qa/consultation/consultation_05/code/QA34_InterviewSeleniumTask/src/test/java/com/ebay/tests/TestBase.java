@@ -1,4 +1,4 @@
-package tests;
+package com.ebay.tests;
 
 import com.ebay.fw.ApplicationManager;
 import org.openqa.selenium.remote.Browser;
