@@ -2,6 +2,7 @@
   "plan": "plan.md",
   "homework": "homework.md",
   "code": [
+    "code/QA34_DemoQA_POM/pom.xml",
     "code/QA34_DemoQA_POM/src/main/java/com/demoqa/pages/BasePage.java",
     "code/QA34_DemoQA_POM/src/main/java/com/demoqa/pages/HomePage.java",
     "code/QA34_DemoQA_POM/src/main/java/com/demoqa/pages/SidePanel.java",
@@ -10,6 +11,7 @@
     "code/QA34_DemoQA_POM/src/main/java/com/demoqa/pages/DownloadPage.java",
     "code/QA34_DemoQA_POM/src/test/java/com/demoqa/tests/BrokenLinksImagesTests.java",
     "code/QA34_DemoQA_POM/src/test/java/com/demoqa/tests/DroppableTests.java",
-    "code/QA34_DemoQA_POM/src/test/java/com/demoqa/tests/DownloadTest.java"
+    "code/QA34_DemoQA_POM/src/test/java/com/demoqa/tests/DownloadTest.java",
+    "code/QA34_DemoQA_POM/src/test/resources/testng.xml"
   ]
 }
