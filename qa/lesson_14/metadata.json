@@ -3,14 +3,14 @@
   "theory": "theory.md",
   "homework": "homework.md",
   "code": [
-    "code/QA34_ilcarro_Cucumber/build.gradle",
-    "code/QA34_ilcarro_Cucumber/src/test/resources/features/navigate.feature",
-    "code/QA34_ilcarro_Cucumber/src/test/resources/features/login.feature",
-    "code/QA34_ilcarro_Cucumber/src/test/java/com/ilcarro/TestRunner.java",
-    "code/QA34_ilcarro_Cucumber/src/main/java/com/ilcarro/pages/BasePage.java",
-    "code/QA34_ilcarro_Cucumber/src/test/java/com/ilcarro/stepDefinitions/HomePageSteps.java",
-    "code/QA34_ilcarro_Cucumber/src/main/java/com/ilcarro/pages/HomePage.java",
-    "code/QA34_ilcarro_Cucumber/src/test/java/com/ilcarro/stepDefinitions/LoginSteps.java",
-    "code/QA34_ilcarro_Cucumber/src/main/java/com/ilcarro/pages/LoginPage.java"
+    "code/QA34_ilCarro_Cucumber/build.gradle",
+    "code/QA34_ilCarro_Cucumber/src/test/resources/features/navigate.feature",
+    "code/QA34_ilCarro_Cucumber/src/test/resources/features/login.feature",
+    "code/QA34_ilCarro_Cucumber/src/test/java/com/ilcarro/TestRunner.java",
+    "code/QA34_ilCarro_Cucumber/src/main/java/com/ilcarro/pages/BasePage.java",
+    "code/QA34_ilCarro_Cucumber/src/test/java/com/ilcarro/stepDefinitions/HomePageSteps.java",
+    "code/QA34_ilCarro_Cucumber/src/main/java/com/ilcarro/pages/HomePage.java",
+    "code/QA34_ilCarro_Cucumber/src/test/java/com/ilcarro/stepDefinitions/LoginSteps.java",
+    "code/QA34_ilCarro_Cucumber/src/main/java/com/ilcarro/pages/LoginPage.java"
   ]
 }
