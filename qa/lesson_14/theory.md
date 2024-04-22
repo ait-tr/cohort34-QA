@@ -47,3 +47,43 @@ More Keywords
 
 [Презентация](https://docs.google.com/presentation/d/1Mf6uIdjQJRRPtp8azC6oDh3pu2kcPDK4/edit?usp=sharing&ouid=116447005932578256378&rtpof=true&sd=true)
 
+**navigate.feature**
+
+Feature: Home Page
+
+@navigate
+
+Scenario: Verify HomePage title is displayed
+
+Given User launches Chrome browser
+
+When User opens ilCarro HomePage
+
+Then User verifies HomePage title is displayed
+
+And User quites browser
+
+**login.feature**
+
+Feature: Login
+
+@validData
+
+Scenario: Login with valid data
+
+Given User launches Chrome browser
+
+When User opens ilCarro HomePage
+
+And User clicks on Login link
+
+And User enters valid data
+
+And User clicks on Yalla button
+
+Then User verifies Success Message is displayed
+
+And User quites browser
+
+
+
