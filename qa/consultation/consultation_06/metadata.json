@@ -4,6 +4,7 @@
   "homework": "homework.md",
   "code": [
     "code/QA34_InterviewSeleniumTask/src/test/resources/logback.xml",
+    "code/QA34_InterviewSeleniumTask/src/main/java/com/ebay/fw/MyListener.java",
     "code/QA34_InterviewSeleniumTask/src/main/java/com/ebay/fw/ApplicationManager.java",
     "code/QA34_InterviewSeleniumTask/src/main/java/com/ebay/fw/BaseHelper.java",
     "code/QA34_InterviewSeleniumTask/src/main/java/com/ebay/fw/SelectHelper.java",
