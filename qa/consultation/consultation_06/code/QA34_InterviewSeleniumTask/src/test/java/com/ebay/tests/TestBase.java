@@ -1,6 +1,5 @@
 package com.ebay.tests;
 
-import com.ebay.fw.ApplicationManager;
 import org.openqa.selenium.remote.Browser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,7 +11,7 @@ import java.lang.reflect.Method;
 
 public class TestBase {
 
-    protected static ApplicationManager app = new ApplicationManager(System.getProperty("browser", Browser.CHROME.browserName()));
+    protected static ApplicationManager app = new ApplicationManager(System.getProperty("browser", Browser.FIREFOX.browserName()));
 
     Logger logger = LoggerFactory.getLogger(TestBase.class);
 
