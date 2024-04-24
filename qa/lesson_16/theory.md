@@ -39,6 +39,8 @@ Postman has several spaces and scopes for variables:
 
 Environment variables exist separately from collections. Local variables are created from executed scripts. There are also data level variables, but they are only accessible from the Runner
 
+[QA34ilCarro collection](https://api.postman.com/collections/8263422-3463a92c-afc1-4f88-9679-7b9dcd7529e2?access_key=PMAT-01HW7VZGA6CEA05PGBEG2DKS7P)
+
 [Swagger ilcarro](https://ilcarro-backend.herokuapp.com/swagger-ui/index.html#/)
 
 [Презентация](https://docs.google.com/presentation/d/1MQScNG0ov11tGNFSFt5mDV-Gp5f-pQF8iiHMPTzBClk/edit?usp=share_link)
