@@ -6,11 +6,15 @@
 
 gradle clean qa
 
-gradle -Psuite=firefox clean qa
-gradle -Psuite=edge clean qa
+gradle -Pbrowser=firefox clean qa
+
+gradle -Pbrowser=edge clean qa
+
 
 gradle clean qa1 -Psuite1
-gradle -Psuite=firefox clean qa1 -Psuite1
+
+gradle -Pbrowser=firefox clean qa1 -Psuite1
 
 gradle clean qa1 -Psuite2
-gradle -Psuite=firefox clean qa1 -Psuite2
+
+gradle -Pbrowser=firefox clean qa1 -Psuite2
