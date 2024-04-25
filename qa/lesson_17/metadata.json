@@ -1,0 +1,17 @@
+{
+  "plan": "plan.md",
+  "code": [
+    "code/QA34_Phonebook_API/build.gradle",
+    "code/QA34_Phonebook_API/src/main/java/com/phonebook/dto/AuthRequestDto.java",
+    "code/QA34_Phonebook_API/src/main/java/com/phonebook/dto/AuthResponseDto.java",
+    "code/QA34_Phonebook_API/src/main/java/com/phonebook/dto/ContactDto.java",
+    "code/QA34_Phonebook_API/src/main/java/com/phonebook/dto/AllContactsDto.java",
+    "code/QA34_Phonebook_API/src/main/java/com/phonebook/dto/ErrorDto.java",
+    "code/QA34_Phonebook_API/src/test/java/com/phonebook/RAtests/TestBase.java",
+    "code/QA34_Phonebook_API/src/test/java/com/phonebook/RAtests/LoginTests.java",
+    "code/QA34_Phonebook_API/src/test/java/com/phonebook/RAtests/GetAllContactsTests.java",
+    "code/QA34_Phonebook_API/src/test/java/com/phonebook/RAtests/DeleteContactByIdTests.java"
+  ],
+  "homework": "homework.md",
+  "video": ""
+}
