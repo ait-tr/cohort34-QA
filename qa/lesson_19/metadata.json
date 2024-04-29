@@ -5,7 +5,7 @@
     "code/QA34_FirstMobileProject/src/main/java/com/remindly/fw/ApplicationManager.java",
     "code/QA34_FirstMobileProject/src/main/java/com/remindly/fw/BaseHelper.java",
     "code/QA34_FirstMobileProject/src/main/java/com/remindly/fw/MainScreenHelper.java",
-    "code/QA34_FirstMobileProject/src/test/java/com/remindly/tests/ReminderTests.java",
+    "code/QA34_FirstMobileProject/src/test/java/com/remindly/fw/ReminderHelper.java",
     "code/QA34_FirstMobileProject/src/test/java/com/remindly/tests/TestBase.java",
     "code/QA34_FirstMobileProject/src/test/java/com/remindly/tests/MainScreenTests.java",
     "code/QA34_FirstMobileProject/src/test/java/com/remindly/tests/ReminderTests.java"
