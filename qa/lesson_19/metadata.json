@@ -2,13 +2,13 @@
   "plan": "plan.md",
   "code": [
     "code/QA34_FirstMobileProject/build.gradle",
-    "code/QA34_FirstMobileProject/src/main/java/fw/ApplicationManager.java",
-    "code/QA34_FirstMobileProject/src/main/java/fw/BaseHelper.java",
-    "code/QA34_FirstMobileProject/src/main/java/fw/MainScreenHelper.java",
-    "code/QA34_FirstMobileProject/src/main/java/fw/ReminderHelper.java",
-    "code/QA34_FirstMobileProject/src/test/java/tests/TestBase.java",
-    "code/QA34_FirstMobileProject/src/test/java/tests/MainScreenTests.java",
-    "code/QA34_FirstMobileProject/src/test/java/tests/ReminderTests.java"
+    "code/QA34_FirstMobileProject/src/main/java/com/remindly/fw/ApplicationManager.java",
+    "code/QA34_FirstMobileProject/src/main/java/com/remindly/fw/BaseHelper.java",
+    "code/QA34_FirstMobileProject/src/main/java/com/remindly/fw/MainScreenHelper.java",
+    "code/QA34_FirstMobileProject/src/test/java/com/remindly/tests/ReminderTests.java",
+    "code/QA34_FirstMobileProject/src/test/java/com/remindly/tests/TestBase.java",
+    "code/QA34_FirstMobileProject/src/test/java/com/remindly/tests/MainScreenTests.java",
+    "code/QA34_FirstMobileProject/src/test/java/com/remindly/tests/ReminderTests.java"
   ],
   "homework": "homework.md",
   "video": ""
