@@ -6,3 +6,4 @@ Feature: Home Page
     When User opens ilCarro HomePage
     Then User verifies HomePage title is displayed
     And User quites browser
+

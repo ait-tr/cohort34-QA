@@ -4,7 +4,14 @@
   "homework": "homework.md",
   "code": [
     "code/QA34_ilCarro_Cucumber/src/test/java/com/ilcarro/TestRunner.java",
+   "code/QA34_ilCarro_Cucumber/src/test/java/com/ilcarro/stepDefinitions/HomePageSteps.java",
+    "code/QA34_ilCarro_Cucumber/src/main/java/com/ilcarro/pages/HomePage.java",
     "code/QA34_ilCarro_Cucumber/src/test/java/com/ilcarro/stepDefinitions/LoginSteps.java",
-    "code/QA34_ilCarro_Cucumber/src/main/java/com/ilcarro/pages/LoginPage.java"
+    "code/QA34_ilCarro_Cucumber/src/main/java/com/ilcarro/pages/LoginPage.java",
+    "code/QA34_ilCarro_Cucumber/src/test/java/com/ilcarro/stepDefinitions/AddCarSteps.java",
+    "code/QA34_ilCarro_Cucumber/src/main/java/com/ilcarro/pages/AddCarPage.java",
+    "code/QA34_ilCarro_Cucumber/src/test/java/com/ilcarro/stepDefinitions/SearchSteps.java",
+    "code/QA34_ilCarro_Cucumber/src/test/resources/features/addCar.feature",
+    "code/QA34_ilCarro_Cucumber/src/test/resources/features/search.feature"
   ]
 }
