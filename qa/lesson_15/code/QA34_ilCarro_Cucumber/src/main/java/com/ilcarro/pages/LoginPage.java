@@ -42,6 +42,14 @@ public class LoginPage extends BasePage{
         return this;
     }
 
+    @FindBy(css = ".positive-button")
+    WebElement okButton;
+
+    public LoginPage clickOnOkButton() {
+        click(okButton);
+        return this;
+    }
+
     public LoginPage enterInvalidPassword(DataTable table) {
 
         List<Map<String,String>> dataTable = table.asMaps();
