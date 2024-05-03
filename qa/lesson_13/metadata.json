@@ -12,6 +12,7 @@
     "code/QA34_DemoQA_POM/src/test/java/com/demoqa/tests/BrokenLinksImagesTests.java",
     "code/QA34_DemoQA_POM/src/test/java/com/demoqa/tests/DroppableTests.java",
     "code/QA34_DemoQA_POM/src/test/java/com/demoqa/tests/DownloadTest.java",
+    "code/QA34_DemoQA_POM/src/test/java/com/demoqa/tests/RobotTests.java",
     "code/QA34_DemoQA_POM/src/test/resources/testng.xml"
   ]
 }
